@@ -8,7 +8,9 @@ public class ComputerTest {
 		computer.display();
 		computer.turnoff();
 		
-		Notebook myNote = new MyNotebook();		
+		Notebook myNote = new MyNotebook();
+		
+		
 	}
 
 }
