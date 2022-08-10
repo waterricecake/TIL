@@ -19,5 +19,14 @@ public class CompleteCalc extends Calculator{
 	public void showInfo() {
 		System.out.println("Complete");
 	}
-
+	/*
+	@Override
+	public void description() {
+		System.out.println("override description");
+	}
+*/
+	public int total(int[] arr) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
