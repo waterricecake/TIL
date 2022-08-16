@@ -16,7 +16,7 @@ class OutClass{
 		void inTest() {
 			System.out.println(num);
 			System.out.println(sNum);
-			System.out.println(sInNum);
+			System.out.println("this"+sInNum);
 		}
 	}
 	
